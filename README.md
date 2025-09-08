@@ -6,7 +6,7 @@ Dataset and model training for SIH.
 
 ## 📥 Download Dataset
 
-You can download the dataset directly using [kagglehub]([https://github.com/Kaggle/kagglehub](https://www.kaggle.com/datasets/raghavdharwal/pelgas-bay-of-biscay-zooscan-zooplankton-dataset/data):
+You can download the dataset directly using [kagglehub]([https://github.com/Kaggle/kagglehub](https://www.kaggle.com/datasets/raghavdharwal/pelgas-bay-of-biscay-zooscan-zooplankton-dataset/data)):
 
 ```python
 import kagglehub
