@@ -55,4 +55,19 @@ for item in os.listdir(path):
 
 print(f"Files moved to {destination_dir}")
 ```
+---
 
+The classes were used to train the model, each containing 10,000 images in total, without any train, validation, or test split.
+
+| Class Name |
+|------------|
+| nauplii_Crustacea__85116 |
+| tail_Appendicularia__85004 |
+| Euchaetidae__61986 |
+| part_Siphonophorae__92039 |
+| nectophore_Diphyidae__84976 |
+| Centropagidae__61990 |
+| Metridinidae__61982 |
+| Cladocera__45036 |
+| Noctiluca_Noctilucaceae__58408 |
+| fiber_detritus__85076 |
